@@ -1,6 +1,12 @@
 *.DS_Store
 *.vscode
 *.json
+cache_dir
+outputs
+runs
+test.txt
+train.txt
+vocab.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
